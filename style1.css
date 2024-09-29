@@ -1,0 +1,22 @@
+.table1 {
+    border: 1px solid red;
+    border-style: dotted;
+    width: 100%;
+    padding-top: 20px;
+    text-align: left;
+    font-family: Arial;
+}
+
+.table2 {
+    border: 1px solid black;
+    border-style: dotted;
+    width: 100%;
+    padding-top: 10px;
+    text-align: left;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.th1 {
+    text-align: center;
+}
